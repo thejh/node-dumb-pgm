@@ -1,0 +1,14 @@
+{
+  "author": "Jann Horn <jannhorn@googlemail.com>",
+  "name": "dumb-pgm",
+  "description": "Simple PGM reader and writer",
+  "version": "0.1.0",
+  "homepage": "https://github.com/thejh/node-dumb-pgm",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thejh/node-dumb-pgm.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {}
+}
